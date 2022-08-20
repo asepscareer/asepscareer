@@ -15,4 +15,6 @@
 
 <h2 align="center">Find More</h2>
 
-<a target="_blank" href="https://medium.com/@asepsaputra"><img src="[https://medium.com/@asepsaputra](https://cdn-images-1.medium.com/fit/c/50/50/1*LEnJdFr1OYqPzPqPmMZMZw.png)" alt="Asep Saputra"></a>
+<a target="_blank" href="https://medium.com/@asepsaputra">
+  <img src="https://cdn-images-1.medium.com/fit/c/50/50/1*LEnJdFr1OYqPzPqPmMZMZw.png" alt="Asep Saputra">
+</a>
