@@ -17,7 +17,7 @@
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/1">
       <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/1" alt="Recent Article 1">
     </a>
-  <div class="column">
+  </div>
     
   <div class="column">
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/2">
@@ -26,6 +26,6 @@
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/3">
       <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/3" alt="Recent Article 3">
     </a>
-  <div class="column">
+  </div>
     
 </div>
