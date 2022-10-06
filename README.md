@@ -14,17 +14,11 @@
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/0">
       <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/0" alt="Recent Article 0">
     </a>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/1">
-      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/1" alt="Recent Article 1">
-    </a>
   </div>
     
   <div class="column">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/2">
-      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/2" alt="Recent Article 2">
-    </a>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/3">
-      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/3" alt="Recent Article 3">
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/1">
+      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/1" alt="Recent Article 1">
     </a>
   </div>
     
