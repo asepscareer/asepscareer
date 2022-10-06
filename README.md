@@ -11,10 +11,14 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/0">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/0" alt="Recent Article 0">
   </a>
+  
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/1" alt="Recent Article 1">
+  </a>
+  
+  
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/2" alt="Recent Article 2">
+  </a>
+  
 </div>
-
-<h2 align="center">Find More</h2>
-
-<a target="_blank" href="https://medium.com/@asepsaputra">
-  <img src="https://cdn-images-1.medium.com/fit/c/50/50/1*LEnJdFr1OYqPzPqPmMZMZw.png" alt="Asep Saputra">
-</a>
