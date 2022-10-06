@@ -7,7 +7,7 @@
 
 <h2 align="center">Latest My Medium Article</h2>
 
-<div align="center">
+<div>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/0">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/0" alt="Recent Article 0">
   </a>
