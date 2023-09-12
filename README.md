@@ -28,21 +28,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/asepsaputra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="asepsaputra" /></a></p><br><br>
-
-<h3>Latest My Medium Article</h3>
-
-<div class="row">
-  
-  <div class="column">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/0">
-      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/0" alt="Recent Article 0">
-    </a>
-  </div>
-    
-  <div class="column">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/1">
-      <img src="https://github-readme-medium-recent-article.vercel.app/medium/@asepsaputra/1" alt="Recent Article 1">
-    </a>
-  </div>
-    
-</div>
