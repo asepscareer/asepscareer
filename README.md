@@ -1,10 +1,10 @@
 <p><a href="https://www.buymeacoffee.com/asepsaputra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="asepsaputra" /></a></p>
 <h1 align="center">Hi 👋, I'm Asep Saputra</h1>
-<h3 align="center">Experienced Middle Developer with expertise in Java, Python, and Flutter / Dart programming languages. Passionate about creating efficient and robust software solutions. A detail-oriented individual with excellent problem-solving skills and a strong commitment to continuous learning and professional growth.</h3>
+<h3 align="center">Experienced Software Developer with expertise in Java, Python, and Flutter / Dart programming languages. Passionate about creating efficient and robust software solutions. A detail-oriented individual with excellent problem-solving skills and a strong commitment to continuous learning and professional growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asepscareer&label=Profile%20views&color=0e75b6&style=flat" alt="asepscareer" /> </p>
 
-- 🔭 I’m currently working on **PT Bawana Margatama**
+- 🔭 I’m currently working on **Hana Bank Indonesia**
 
 - 🌱 I’m currently learning **Mobile Development using Flutter, Microservices, and Data Management**
 
